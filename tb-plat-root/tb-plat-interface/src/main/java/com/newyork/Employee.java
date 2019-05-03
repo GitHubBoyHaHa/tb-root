@@ -1,5 +1,7 @@
 package com.newyork;
-
+/**
+ * 员工
+ */
 public class Employee {
     private String name;
 
