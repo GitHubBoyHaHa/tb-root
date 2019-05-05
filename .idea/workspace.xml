@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24f3ef15-6629-4364-8b0d-e68695dd5e43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="24f3ef15-6629-4364-8b0d-e68695dd5e43" name="Default Changelist" comment="2019-5-5-17:18">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tb-config-server-8848/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tb-config-server-8848/src/main/java/com/newyork/ConfigServerApp8848.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tb-config-server-8848/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-basic-root/tb-basic-util/target/classes/com/newyork/query/PageList.class" beforeDir="false" afterPath="$PROJECT_DIR$/tb-basic-root/tb-basic-util/target/classes/com/newyork/query/PageList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-basic-root/tb-basic-util/target/classes/com/newyork/util/JsonResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/tb-basic-root/tb-basic-util/target/classes/com/newyork/util/JsonResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-basic-root/tb-basic-util/target/classes/com/newyork/util/PageUi.class" beforeDir="false" afterPath="$PROJECT_DIR$/tb-basic-root/tb-basic-util/target/classes/com/newyork/util/PageUi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-eureka-server-7001/target/classes/com/newyork/EurekaApp7001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-eureka-server-7001/target/classes/com/newyork/util/EurekaApp7001.class" beforeDir="false" afterPath="$PROJECT_DIR$/tb-eureka-server-7001/target/classes/com/newyork/util/EurekaApp7001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/UserApp8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/java/com/newyork/PlatProviderApp8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/config/Swagger2.java" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/java/com/newyork/config/Swagger2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/java/com/newyork/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/target/classes/com/newyork/UserApp8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/target/classes/com/newyork/UserApp8001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/target/classes/com/newyork/config/Swagger2.class" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/target/classes/com/newyork/config/Swagger2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/target/classes/com/newyork/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/target/classes/com/newyork/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-plat-root/tb-plat-interface/target/classes/com/newyork/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/tb-plat-root/tb-plat-interface/target/classes/com/newyork/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-zuulgateway-9527/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tb-zuulgateway-9527/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-zuulgateway-9527/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tb-zuulgateway-9527/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tb-zuulgateway-9527/target/classes/com/newyork/util/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/tb-zuulgateway-9527/target/classes/com/newyork/util/config/SwaggerConfig.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,6 +41,8 @@
     <ignored path="$PROJECT_DIR$/tb-plat-root/tb-plat-interface/target/" />
     <ignored path="$PROJECT_DIR$/tb-eureka-server-7001/target/" />
     <ignored path="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/target/" />
+    <ignored path="$PROJECT_DIR$/tb-config-server-8848/target/" />
+    <ignored path="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,32 +94,43 @@
     <session id="1747419850">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="java" value="10" />
+          <entry key="xml" value="7" />
+          <entry key="yml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="JAVA" value="10" />
+          <entry key="XML" value="7" />
+          <entry key="YAML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14" />
-          <entry key="txt" value="7" />
+          <entry key="dummy" value="25" />
+          <entry key="java" value="85" />
+          <entry key="txt" value="21" />
+          <entry key="xml" value="3" />
+          <entry key="yml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="JAVA" value="85" />
+          <entry key="PLAIN_TEXT" value="46" />
+          <entry key="XML" value="3" />
+          <entry key="YAML" value="19" />
         </counts>
       </usages-collector>
     </session>
@@ -101,52 +138,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-interface/src/main/java/com/newyork/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-              <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/config/Swagger2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tb-eureka-server-7001/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="260">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/java/com/newyork/PlatProviderApp8001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -154,35 +167,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="558">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/config/SwaggerConfig.java">
+        <entry file="file://$PROJECT_DIR$/tb-eureka-server-7001/src/main/java/com/newyork/util/EurekaApp7001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1209">
-              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/config/DocumentationConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+            <state relative-caret-position="186">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -190,11 +185,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/ZuulApp9527.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
+            <state relative-caret-position="186">
               <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/config/DocumentationConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -223,14 +227,12 @@
         <option value="$PROJECT_DIR$/tb-basic-root/pom.xml" />
         <option value="$PROJECT_DIR$/tb-basic-root/tb-basic-util/src/main/java/com/newyork/JsonResult.java" />
         <option value="$PROJECT_DIR$/tb-basic-root/tb-basic-util/src/main/java/com/newyork/util/JsonResult.java" />
-        <option value="$PROJECT_DIR$/tb-plat-root/pom.xml" />
         <option value="$PROJECT_DIR$/tb-eureka-server-7001/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/tb-plat-root/tb-plat-interface/pom.xml" />
         <option value="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/UserApp8001.java" />
         <option value="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/tb-zuulgateway-9527/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/pom.xml" />
         <option value="$PROJECT_DIR$/tb-zuulgateway-9527/pom.xml" />
         <option value="$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/config/DocumentationConfig.java" />
@@ -238,6 +240,11 @@
         <option value="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/config/Swagger2.java" />
         <option value="$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/tb-plat-root/tb-plat-interface/src/main/java/com/newyork/Employee.java" />
+        <option value="$PROJECT_DIR$/tb-config-server-8848/pom.xml" />
+        <option value="$PROJECT_DIR$/tb-config-server-8848/src/main/java/com/newyork/ConfigServerApp8848.java" />
+        <option value="$PROJECT_DIR$/tb-plat-root/pom.xml" />
+        <option value="$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tb-zuulgateway-9527/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -255,17 +262,18 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="735" />
-    <option name="height" value="704" />
+    <option name="x" value="20" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,26 +284,74 @@
             <path>
               <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-basic-root" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-eureka-server-7001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-eureka-server-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-eureka-server-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-eureka-server-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-eureka-server-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-eureka-server-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
               <item name="tb-plat-root" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="tb-root" type="462c0819:PsiDirectoryNode" />
               <item name="tb-plat-root" type="462c0819:PsiDirectoryNode" />
-              <item name="tb-plat-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-plat-eureka-provider-8001" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="tb-root" type="462c0819:PsiDirectoryNode" />
               <item name="tb-plat-root" type="462c0819:PsiDirectoryNode" />
-              <item name="tb-plat-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-plat-eureka-provider-8001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="tb-root" type="462c0819:PsiDirectoryNode" />
               <item name="tb-plat-root" type="462c0819:PsiDirectoryNode" />
-              <item name="tb-plat-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-plat-eureka-provider-8001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -303,7 +359,7 @@
               <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="tb-root" type="462c0819:PsiDirectoryNode" />
               <item name="tb-plat-root" type="462c0819:PsiDirectoryNode" />
-              <item name="tb-plat-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-plat-eureka-provider-8001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -312,17 +368,86 @@
               <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="tb-root" type="462c0819:PsiDirectoryNode" />
               <item name="tb-plat-root" type="462c0819:PsiDirectoryNode" />
-              <item name="tb-plat-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-plat-eureka-provider-8001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="newyork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-plat-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-plat-eureka-provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-plat-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-plat-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-zuulgateway-9527" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-zuulgateway-9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-zuulgateway-9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-zuulgateway-9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-zuulgateway-9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-zuulgateway-9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tb-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tb-root" type="462c0819:PsiDirectoryNode" />
+              <item name="tb-zuulgateway-9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,8 +457,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556880510996" />
-    <property name="last_opened_file_path" value="E:/64git/Git/bin/git.exe" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557048623529" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -353,7 +478,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaApp7001 (1)">
+  <component name="RunManager" selected="Spring Boot.ZuulApp9527 (1)">
     <configuration name="EurekaApp7001 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="tb-eureka-server-7001" />
       <extension name="coverage">
@@ -380,15 +505,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserApp8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="tb-plat-eureka-client-8001" />
+    <configuration name="PlatProviderApp8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tb-plat-eureka-provider-8001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.newyork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.newyork.UserApp8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.newyork.PlatProviderApp8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -423,14 +548,14 @@
       <item itemvalue="Spring Boot.EurekaApp7001" />
       <item itemvalue="Spring Boot.ZuulApp9527" />
       <item itemvalue="Spring Boot.EurekaApp7001 (1)" />
-      <item itemvalue="Spring Boot.UserApp8001" />
+      <item itemvalue="Spring Boot.PlatProviderApp8001" />
       <item itemvalue="Spring Boot.ZuulApp9527 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaApp7001 (1)" />
-        <item itemvalue="Spring Boot.UserApp8001" />
         <item itemvalue="Spring Boot.ZuulApp9527 (1)" />
+        <item itemvalue="Spring Boot.PlatProviderApp8001" />
+        <item itemvalue="Spring Boot.EurekaApp7001 (1)" />
         <item itemvalue="Spring Boot.ZuulApp9527" />
         <item itemvalue="Spring Boot.EurekaApp7001" />
       </list>
@@ -449,7 +574,11 @@
       <workItem from="1556780445168" duration="8054000" />
       <workItem from="1556856298708" duration="922000" />
       <workItem from="1556857523362" duration="860000" />
-      <workItem from="1556877364040" duration="948000" />
+      <workItem from="1556877364040" duration="1828000" />
+      <workItem from="1556932397660" duration="1195000" />
+      <workItem from="1556936234225" duration="92000" />
+      <workItem from="1557024383386" duration="621000" />
+      <workItem from="1557035841088" duration="5647000" />
     </task>
     <task id="LOCAL-00001" summary="测试版本">
       <created>1556877712556</created>
@@ -458,13 +587,20 @@
       <option name="project" value="LOCAL" />
       <updated>1556877712556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试版本">
+      <created>1556880543918</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556880543918</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10784000" />
+    <option name="totallyTimeSpent" value="19219000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -475,8 +611,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26675603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Persistence" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -488,17 +625,17 @@
       <window_info id="Web" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.59773374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32577905" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32531825" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3281471" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32719547" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32956153" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
@@ -556,31 +693,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-interface/src/main/java/com/newyork.java" />
-    <entry file="file://$PROJECT_DIR$/tb-plat-root/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tb-eureka-server-7001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/controller/LoginController.java">
+    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/java/com/newyork/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
@@ -595,78 +708,132 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/config/SwaggerConfig.java" />
-    <entry file="file://$PROJECT_DIR$/tb-eureka-server-7001/src/main/java/com/newyork/util/EurekaApp7001.java">
+    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-interface/src/main/java/com/newyork/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="124">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/UserApp8001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/java/com/newyork/config/Swagger2.java">
+    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/java/com/newyork/config/Swagger2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="713">
           <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="155">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tb-eureka-server-7001/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/tb-eureka-server-7001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="372">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-config-server-8848/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-config-server-8848/src/main/java/com/newyork/ConfigServerApp8848.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1271">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-584">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-plat-root/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/target/classes/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-config-server-8848/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="558">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/config/SwaggerConfig.java">
+    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+        <state relative-caret-position="186">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001/pom.xml">
+    <entry file="file://$PROJECT_DIR$/tb-eureka-server-7001/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1209">
-          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        <state relative-caret-position="260">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/config/DocumentationConfig.java">
+    <entry file="file://$PROJECT_DIR$/tb-eureka-server-7001/src/main/java/com/newyork/util/EurekaApp7001.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        <state relative-caret-position="186">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001/src/main/java/com/newyork/PlatProviderApp8001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/ZuulApp9527.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
+        <state relative-caret-position="186">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -674,25 +841,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tb-plat-root/tb-plat-interface/src/main/java/com/newyork/Employee.java">
+    <entry file="file://$PROJECT_DIR$/tb-zuulgateway-9527/src/main/java/com/newyork/util/config/DocumentationConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -746,7 +900,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>tb-zuulgateway-9527</last-edited>
+          <last-edited>tb-basic-root</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

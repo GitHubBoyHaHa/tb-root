@@ -2,7 +2,7 @@ server:
   port: 8001
 spring:
   application:
-    name: tb-plat
+    name: tb-plat-provider
 eureka:
   client:
     service-url:

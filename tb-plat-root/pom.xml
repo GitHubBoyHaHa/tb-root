@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>tb-plat-interface</module>
-        <module>tb-plat-eureka-client-8001</module>
+        <module>tb-plat-eureka-provider-8001</module>
     </modules>
 
 

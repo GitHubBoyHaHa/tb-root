@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="tb-basic-util" />
+        <module name="tb-config-server-8848" />
         <module name="tb-eureka-server-7001" />
-        <module name="tb-plat-eureka-client-8001" />
+        <module name="tb-plat-eureka-provider-8001" />
         <module name="tb-plat-interface" />
         <module name="tb-zuulgateway-9527" />
       </profile>

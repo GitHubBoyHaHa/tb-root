@@ -4,9 +4,10 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tb-basic-root" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tb-basic-root/tb-basic-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-config-server-8848" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tb-eureka-server-7001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tb-plat-root" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-client-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tb-plat-root/tb-plat-eureka-provider-8001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tb-plat-root/tb-plat-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tb-zuulgateway-9527" charset="UTF-8" />
   </component>

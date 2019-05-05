@@ -13,6 +13,7 @@
         <module>tb-zuulgateway-9527</module>
         <module>tb-basic-root</module>
         <module>tb-plat-root</module>
+        <module>tb-config-server-8848</module>
     </modules>
     <!--常量，版本约束-->
     <properties>
