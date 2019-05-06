@@ -1,7 +1,7 @@
 package com.newyork.controller;
 
 import com.newyork.Employee;
-import com.newyork.util.JsonResult;
+import com.newyork.JsonResult;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

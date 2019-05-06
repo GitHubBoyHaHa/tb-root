@@ -1,4 +1,4 @@
-package com.newyork.util.config;
+package com.newyork.config;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

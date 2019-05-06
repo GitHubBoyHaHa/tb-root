@@ -1,4 +1,4 @@
-package com.newyork.util.config;
+package com.newyork.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

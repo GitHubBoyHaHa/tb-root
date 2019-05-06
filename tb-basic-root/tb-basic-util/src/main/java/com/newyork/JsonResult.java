@@ -1,4 +1,4 @@
-package com.newyork.util;
+package com.newyork;
 
 public class JsonResult {
 
